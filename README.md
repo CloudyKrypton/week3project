@@ -1,5 +1,5 @@
 # week3project
-repository for the week3 submission on MarkUs
+Repository for the week3 submission on MarkUs.
 
 
 # Problem Domain
@@ -18,5 +18,7 @@ The idea that our team would like to implement is checkers, playable by a single
 Link to the documentation: https://docs.oracle.com/javase%2F7%2Fdocs%2Fapi%2F%2F/javax/swing/package-summary.html
 
 TODO: a screenshot of using a tool to try out the API
+
 TODO: example output of running your Java code
+
 TODO: a list of any technical problems blocking progress
