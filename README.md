@@ -22,3 +22,6 @@ TODO: a screenshot of using a tool to try out the API
 TODO: example output of running your Java code
 
 TODO: a list of any technical problems blocking progress
+
+# Technical Problems
+1. Creating an algorithm for a computer checkers opponent
