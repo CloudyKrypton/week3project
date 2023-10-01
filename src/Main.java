@@ -7,8 +7,8 @@ import com.mongodb.client.MongoDatabase;
 
 public class Main {
     public static void main( String[] args ) {
-        // Replace the placeholder with your MongoDB deployment's connection string
-        String uri = "mongodb+srv://janetfu04:<password>@cluster0.uzqaigu.mongodb.net/?retryWrites=true&w=majo" +
+        // Attempting to call on a database in mongo, but everything is broken. :(
+        String uri = "mongodb+srv://janetfu04:BDOO8476qnW0uZ9z>@cluster0.uzqaigu.mongodb.net/?retryWrites=true&w=majo" +
                 "rity&appName=AtlasApp\n\n";
         try (MongoClient mongoClient = MongoClients.create(uri)) {
             MongoDatabase database = mongoClient.getDatabase("sample_mflix");
