@@ -30,5 +30,5 @@ Since player does not exist within the database, it outputs `No matching documen
 # Technical Problems
 
 1. Creating an algorithm for a computer checkers opponent
-2. Finding a free api to use and generating an api key
-3. Making a call to the api using MongoDB
+2. Finding a free api to use and generating an API key
+3. Making a call to the api using MongoDB 
