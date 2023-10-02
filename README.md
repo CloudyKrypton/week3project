@@ -19,12 +19,13 @@ The idea that our team would like to implement is checkers, playable by a single
 Link to the documentation: https://www.mongodb.com/docs/
 
 # Screenshot of trying out the API
+We used two tool to try out the API:
+1. Postman [photo](ScreenshotOfMongoDB-1.png)
+2. MongoDB's built-in tool [photo](ScreenshotOfMongoDB-2.png)
 
-TODO: a screenshot of using a tool to try out the API
-
-# Java Code
-
-TODO: example output of running your Java code
+# Sample Java Code Output
+The [Main.java](src/Main.java) file makes a call to an existing database to search for a player named `John`.
+Since player does not exist within the database, it outputs `No matching documents found.`
 
 # Technical Problems
 
