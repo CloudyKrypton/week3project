@@ -29,3 +29,5 @@ TODO: example output of running your Java code
 # Technical Problems
 
 1. Creating an algorithm for a computer checkers opponent
+2. Finding a free api to use and generating an api key
+3. Making a call to the api using MongoDB
